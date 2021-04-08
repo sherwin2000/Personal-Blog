@@ -1,5 +1,7 @@
 ## Website GUI
 
+## I have developed the website using Astra Theme and used Elementor
+
 ## Home Page
 ![Alt Text](https://github.com/sherwin2000/Personal-Blog/blob/main/Screenshots/Home.png)
 ![Alt Text](https://github.com/sherwin2000/Personal-Blog/blob/main/Screenshots/Home%20continuation.png)
